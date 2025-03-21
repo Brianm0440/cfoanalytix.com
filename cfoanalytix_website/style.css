@@ -19,7 +19,7 @@ header {
 .logo {
     font-size: 24px;
     font-weight: bold;
-    background: linear-gradient(45deg, #3b82f6, #6366f1);
+    background: linear-gradient(45deg, #ef4444, #dc2626);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -38,12 +38,12 @@ nav ul li a {
     transition: color 0.3s ease;
 }
 nav ul li a:hover {
-    color: #3b82f6;
+    color: #dc2626;
 }
 .hero {
     text-align: center;
     padding: 120px 20px;
-    background: linear-gradient(135deg, #3b82f6, #6366f1);
+    background: linear-gradient(135deg, #ef4444, #dc2626);
     color: white;
 }
 .hero h1 {
@@ -62,7 +62,7 @@ nav ul li a:hover {
     margin-top: 30px;
     padding: 15px 30px;
     background-color: white;
-    color: #3b82f6;
+    color: #dc2626;
     text-decoration: none;
     font-weight: bold;
     border-radius: 50px;
@@ -96,7 +96,7 @@ nav ul li a:hover {
     transform: translateY(-5px);
 }
 .service h3 {
-    color: #3b82f6;
+    color: #dc2626;
     margin-bottom: 15px;
 }
 .contact {
@@ -128,10 +128,10 @@ form input, form textarea {
 }
 form input:focus, form textarea:focus {
     outline: none;
-    border-color: #3b82f6;
+    border-color: #dc2626;
 }
 button {
-    background: linear-gradient(45deg, #3b82f6, #6366f1);
+    background: linear-gradient(45deg, #ef4444, #dc2626);
     color: white;
     padding: 12px 24px;
     border: none;
@@ -179,7 +179,7 @@ footer {
 }
 
 .service-detailed h2 {
-    color: #3b82f6;
+    color: #dc2626;
     margin-bottom: 20px;
     font-size: 24px;
 }
@@ -199,7 +199,7 @@ footer {
 
 .service-detailed ul li:before {
     content: "•";
-    color: #3b82f6;
+    color: #dc2626;
     font-weight: bold;
     position: absolute;
     left: 0;
@@ -208,7 +208,7 @@ footer {
 .thank-you {
     text-align: center;
     padding: 120px 20px;
-    background: linear-gradient(135deg, #3b82f6, #6366f1);
+    background: linear-gradient(135deg, #ef4444, #dc2626);
     color: white;
     min-height: 60vh;
     display: flex;
